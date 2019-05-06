@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+.btn-Oper
+{
+  display: block;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin: 0 auto;
+}
+
+.btn-spacer
+{
+   padding-top: 2vmax;
+}
